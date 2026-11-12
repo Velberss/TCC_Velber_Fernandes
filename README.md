@@ -1,4 +1,4 @@
-# TCC — Análise de Comentários sobre o Aviator e a Lei 14.790/2023
+# TCC — Classificação e Caracterização em Comentários sobre Apostas Online: O Caso do Jogo Aviator no YouTube
 
 Este repositório reúne o código desenvolvido para o Trabalho de Conclusão de Curso (TCC), com foco na coleta, limpeza, análise linguística e classificação automatizada de comentários em português sobre o jogo Aviator, extraídos do YouTube.
 
